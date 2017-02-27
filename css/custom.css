@@ -1,0 +1,31 @@
+
+.col-sm-5.col-sm-offset-4{
+  height:103px!important;
+}
+
+.owl-theme .owl-controls{
+  position:absolute!important;
+  margin-top:0px!important;
+  top:90%!important;
+  left:47%!important;
+}
+.owl-buttons{
+  opacity:0!important;
+}
+.col-sm-12{
+  padding-right:0px!important;
+  padding-left:0px!important;
+}
+.row_9>.col-sm-4{
+  margin-top:100px!important;
+}
+.form-control{
+  width:445px!important;
+  height:45px!important;
+}
+p.footer_text{
+  margin-bottom:0px!important;
+}
+/* .fa_fa-glass_fa-2x, .fa_fa-lightbulb-o_fa-2x, .fa_fa-coffee_fa-2x, .fa_fa-star_fa-2x, .fa_fa-trophy_fa-2x, .fa_fa-key_fa-2x {
+  color:#16d9e6!important;
+} */
